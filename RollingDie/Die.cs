@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace RollingDie
 {
+    /// <summary>
+    /// New type for die
+    /// </summary>
     class Die
     {
         public readonly int Num;
